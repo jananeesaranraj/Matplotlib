@@ -34,6 +34,7 @@ The executive team has tasked you with generating all of the tables and figures 
 
 **Outliers**
 
+![Outliers](https://user-images.githubusercontent.com/112193116/196055354-b8ad16f9-734d-42d5-b9c8-3103c9474494.png)
 
 **Box Plot**
 
