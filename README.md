@@ -32,9 +32,8 @@ The executive team has tasked you with generating all of the tables and figures 
 
 ![Last_Timepoint_regimen](https://user-images.githubusercontent.com/112193116/196054207-1e090f2e-b3ea-43ba-9b94-1117321df704.png)
 
-**Quartiles and Outliers**
+**Outliers**
 
-![Outliers](https://user-images.githubusercontent.com/112193116/196054210-7743e4c9-9192-4f07-8d99-539445d45ca7.png)
 
 **Box Plot**
 
