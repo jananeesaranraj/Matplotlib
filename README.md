@@ -51,3 +51,11 @@ The executive team has tasked you with generating all of the tables and figures 
 **Correlation and Regression**
 
 ![Correlation_Regression](https://user-images.githubusercontent.com/112193116/196054205-1d5d9645-31cc-485e-bb44-f17295669bbc.png)
+
+**Analysis**
+1.Capomulin and Ramicane drug treatments look effective compared to other drug regimens while comparing the average tumor volume on the course of 45 days.
+2.Number of Mice tested for Capomulin and Ramicane is more than the other drug regimens.
+3.Percentage of male mice tested is more than the female mice.
+4.As per the line plot,the tumor volume has reduced in the course of time for the mice l509 using the drug Capomulin
+5.There are no outliers for Capomulin,Ramicane and Ceftamin except Infubinol which has one outlier.
+6.There is a strong positive Correlation between Mouse weight and average tumor volume.
